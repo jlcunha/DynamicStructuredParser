@@ -302,4 +302,5 @@ In summary, the method demonstrated for extracting structured data from unstruct
 
 ## My Links:
 [Medium](https://medium.com/@lucasdacunh)
+
 [LinkedIn](https://medium.com/r/?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Flucas-dacunha%2F)
